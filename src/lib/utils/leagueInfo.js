@@ -7,13 +7,15 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <h1>Welcome to Spartan Gaming</h1>
+  <p>Where champions are made, and legends are born! Spartan Gaming is your ultimate destination for Fantasy Sports enthusiasts. Assemble your team, outsmart your rivals, and lead your league to victory.</p>
+  <p>Our community thrives on competition, camaraderie, and the spirit of excellence. Dive into the action and experience the thrill of Fantasy Sports like never before.</p>
+  <p>Whether you’re a seasoned pro or a newcomer, Spartan Gaming offers something for everyone. Customize your lineup, strategize your moves, and conquer the leaderboard!</p>
+  <p>Join the Spartan family today and become a part of an epic journey where every play matters, every decision counts, and the glory of victory awaits.</p>
+  <p>Are you ready to step into the arena? The battle for supremacy starts here. Welcome to the Spartan way!</p>
+  <p>Game on, Spartans!</p>
 `;
+
 
 /*   STEP 3   */
 /*
