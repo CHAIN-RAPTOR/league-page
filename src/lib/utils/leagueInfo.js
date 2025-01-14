@@ -7,11 +7,21 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <h1>Welcome to Spartan Gaming</h1>
+  <h1 style="
+  font-family: 'Times New Roman', serif; 
+  font-size: 72px; 
+  font-weight: bold; 
+  color: #6b4226; 
+  text-transform: uppercase; 
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);">
+  Spartan Gaming
+</h1>
+
   <p>Where champions are made, and legends are born! Spartan Gaming is your ultimate destination for Fantasy Sports enthusiasts. Assemble your team, outsmart your rivals, and lead your league to victory.</p>
   <p>Our community thrives on competition, camaraderie, and the spirit of excellence. Dive into the action and experience the thrill of Fantasy Sports like never before.</p>
   <p>Whether you’re a seasoned pro or a newcomer, Spartan Gaming offers something for everyone. Customize your lineup, strategize your moves, and conquer the leaderboard!</p>
   <p>Join the Spartan family today and become a part of an epic journey where every play matters, every decision counts, and the glory of victory awaits.</p>
+ <p>This is the place where we do battle! Check out our site, let us know what you want and what we can do better. "Fo' shizzle, it's about to get real, my nizzle!"<p>
   <p>Are you ready to step into the arena? The battle for supremacy starts here. Welcome to the Spartan way!</p>
   <p>Game on, Spartans!</p>
 `;
